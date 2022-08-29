@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/BrNkV/p5js/issues"
   },
-  "homepage": "https://github.com/BrNkV/p5js#readme"
+  "homepage": "https://github.com/BrNkV/p5js#readme",
+  "dependencies": {
+    "p5js": "^1.2.18"
+  }
 }
